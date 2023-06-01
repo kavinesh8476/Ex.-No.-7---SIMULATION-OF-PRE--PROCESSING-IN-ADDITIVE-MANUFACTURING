@@ -53,18 +53,24 @@ In slicer software STL file is loaded .The object orientation is need to be chec
 
 ### Support structure
 As we see before proper orientation need lesser support material .But at some places there might be need of support material which supports overhanging parts(ie.,angle above 45).However they need to be removed after printing.
+![image](https://github.com/kavinesh8476/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118466561/c63a3a83-6e88-411b-befc-90ffe74ce9d6)
+
 
 
 ### Slicing
 slicing is converting digital 3D models into printing instructions for a given 3D printer to build an object. In addition to the model itself, the instructions contain user-entered 3D printing parameters, such as layer height, speed, and support structure settings.
+![image](https://github.com/kavinesh8476/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118466561/94e7344a-eb76-4af4-8e5e-c0cd3d2d0bab)
+
 
 ### Path planning
 The infill pattern determines the arrangement of the internal structure within the 3D printed object. Common infill patterns include rectilinear, honeycomb, grid, and concentric. Each pattern has its own characteristics in terms of strength, material usage, print time, and surface finish. The choice of infill pattern depends on the specific requirements of the printed object
+![image](https://github.com/kavinesh8476/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118466561/93a34b79-b20b-4b9b-a41b-3e1f7130a8be)
+
 
   
 
-### Name:
-### Register Number:
+### Name:Kavinesh M
+### Register Number:212222230064
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
